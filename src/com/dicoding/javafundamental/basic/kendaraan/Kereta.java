@@ -1,2 +1,7 @@
-package com.dicoding.javafundamental.basic.kendaraan;public class Kereta {
+package com.dicoding.javafundamental.basic.kendaraan;
+
+public class Kereta {
+    public static void jumlahban() {
+        System.out.println("Ban Kereta Ada Banyak");
+    }
 }

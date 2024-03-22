@@ -1,2 +1,7 @@
-package com.dicoding.javafundamental.basic.kendaraan;public class Mobil {
+package com.dicoding.javafundamental.basic.kendaraan;
+
+public class Mobil {
+    public static void jumlahban() {
+        System.out.println("Ban Mobil Ada 4");
+    }
 }
